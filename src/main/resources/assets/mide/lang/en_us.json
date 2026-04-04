@@ -1,0 +1,13 @@
+{
+  "itemGroup.mide": "Example Mod Tab",
+  "block.mide.example_block": "Example Block",
+  "item.mide.example_item": "Example Item",
+
+  "mide.configuration.title": "MIDE Configs",
+  "mide.configuration.section.mide.common.toml": "MIDE Configs",
+  "mide.configuration.section.mide.common.toml.title": "MIDE Configs",
+  "mide.configuration.items": "Item List",
+  "mide.configuration.logDirtBlock": "Log Dirt Block",
+  "mide.configuration.magicNumberIntroduction": "Magic Number Text",
+  "mide.configuration.magicNumber": "Magic Number"
+}
